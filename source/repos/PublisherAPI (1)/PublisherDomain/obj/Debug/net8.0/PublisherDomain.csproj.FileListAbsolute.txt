@@ -1,0 +1,88 @@
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\Before\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M08 Interacting with Related Data\During\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M09 Many to Many\During\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\Before\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M10 One to One\During\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M11 Raw SQL\After\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+C:\Users\Sergey\Downloads\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+C:\Users\Sergey\source\repos\PublisherAPI (1)\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll

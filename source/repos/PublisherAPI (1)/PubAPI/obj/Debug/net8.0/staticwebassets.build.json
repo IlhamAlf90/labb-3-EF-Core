@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yo78kxQ9m4GnGieW4qKO0CaFBwyvnTVxsTYJm7/yM0s=",
+  "Source": "PubAPI",
+  "BasePath": "_content/PubAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

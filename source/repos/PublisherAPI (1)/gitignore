@@ -1,0 +1,19 @@
+# Ignorera systemfiler
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+OneDrive*/
+Downloads/
+Videos/
+Music/
+Pictures/
+Desktop/
+obj/
+bin/
